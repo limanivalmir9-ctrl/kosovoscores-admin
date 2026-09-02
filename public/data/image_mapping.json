@@ -1,0 +1,2198 @@
+{
+  "clubs": [
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/60d7bccde_kf_dardana_small_128.png",
+      "new": "/images/clubs/60d7bccde_kf_dardana_small_128.png",
+      "filename": "60d7bccde_kf_dardana_small_128.png",
+      "club": "KF DARDANA 10"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/24c82b03e_SHFISTOGU03.png",
+      "new": "/images/clubs/24c82b03e_SHFISTOGU03.png",
+      "filename": "24c82b03e_SHFISTOGU03.png",
+      "club": "SHF ISTOGU 03"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/66b36a201_kfbesaearte.png",
+      "new": "/images/clubs/66b36a201_kfbesaearte.png",
+      "filename": "66b36a201_kfbesaearte.png",
+      "club": "KF BESA E ARTE"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cb4861e27_FERIZAJ_580.png",
+      "new": "/images/clubs/cb4861e27_FERIZAJ_580.png",
+      "filename": "cb4861e27_FERIZAJ_580.png",
+      "club": "KF FERIZAJ U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/050c8d6f2_2korriku_580.png",
+      "new": "/images/clubs/050c8d6f2_2korriku_580.png",
+      "filename": "050c8d6f2_2korriku_580.png",
+      "club": "KF 2 KORRIKU U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/36bf500b2_FCBALLKANI_580.png",
+      "new": "/images/clubs/36bf500b2_FCBALLKANI_580.png",
+      "filename": "36bf500b2_FCBALLKANI_580.png",
+      "club": "FC BALLKANI U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6597255ca_VUSHTRRIA_580.png",
+      "new": "/images/clubs/6597255ca_VUSHTRRIA_580.png",
+      "filename": "6597255ca_VUSHTRRIA_580.png",
+      "club": "KF VUSHTRRIA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/031d274d6_malisheva_580.png",
+      "new": "/images/clubs/031d274d6_malisheva_580.png",
+      "filename": "031d274d6_malisheva_580.png",
+      "club": "KF MALISHEVA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8b1d1e465_trepcamitrovice_580.png",
+      "new": "/images/clubs/8b1d1e465_trepcamitrovice_580.png",
+      "filename": "8b1d1e465_trepcamitrovice_580.png",
+      "club": "KF TREPÇA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f015e22fb_TREPCA89_580.png",
+      "new": "/images/clubs/f015e22fb_TREPCA89_580.png",
+      "filename": "f015e22fb_TREPCA89_580.png",
+      "club": "KF TREPÇA '89  U19 "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bfaf8fa5d_ramizsadiku_580.png",
+      "new": "/images/clubs/bfaf8fa5d_ramizsadiku_580.png",
+      "filename": "bfaf8fa5d_ramizsadiku_580.png",
+      "club": "KF RAMIZ SADIKU U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/aee2b529e_llapi_580.png",
+      "new": "/images/clubs/aee2b529e_llapi_580.png",
+      "filename": "aee2b529e_llapi_580.png",
+      "club": "KF LLAPI U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4d033ae87_FLAMURTARI_580.png",
+      "new": "/images/clubs/4d033ae87_FLAMURTARI_580.png",
+      "filename": "4d033ae87_FLAMURTARI_580.png",
+      "club": "KF FLAMURTARI U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8af6b3e0d_drenica_580.png",
+      "new": "/images/clubs/8af6b3e0d_drenica_580.png",
+      "filename": "8af6b3e0d_drenica_580.png",
+      "club": "KF DRENICA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/958ea1eac_DINAMOFERIZAJ_580.png",
+      "new": "/images/clubs/958ea1eac_DINAMOFERIZAJ_580.png",
+      "filename": "958ea1eac_DINAMOFERIZAJ_580.png",
+      "club": "KF DINAMO FERIZAJ U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/558b165f9_RILINDJA1995.jpg",
+      "new": "/images/clubs/558b165f9_RILINDJA1995.jpg",
+      "filename": "558b165f9_RILINDJA1995.jpg",
+      "club": "KF RILINDJA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/13a3e33fe_FCPRISHTINA_580.png",
+      "new": "/images/clubs/13a3e33fe_FCPRISHTINA_580.png",
+      "filename": "13a3e33fe_FCPRISHTINA_580.png",
+      "club": "FC PRISHTINA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/389db33e8_SCGJILANI_580.png",
+      "new": "/images/clubs/389db33e8_SCGJILANI_580.png",
+      "filename": "389db33e8_SCGJILANI_580.png",
+      "club": "SC GJILANI U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0ba3fb51d_KFDRITA_580.png",
+      "new": "/images/clubs/0ba3fb51d_KFDRITA_580.png",
+      "filename": "0ba3fb51d_KFDRITA_580.png",
+      "club": "KF DRITA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/47be3b902_decani.png",
+      "new": "/images/clubs/47be3b902_decani.png",
+      "filename": "47be3b902_decani.png",
+      "club": "KF DEÇANI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/520e0e116_dukagjinigjakove.png",
+      "new": "/images/clubs/520e0e116_dukagjinigjakove.png",
+      "filename": "520e0e116_dukagjinigjakove.png",
+      "club": "KF DUKAGJINI GJ."
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/80420e220_SHQIPONJAT.png",
+      "new": "/images/clubs/80420e220_SHQIPONJAT.png",
+      "filename": "80420e220_SHQIPONJAT.png",
+      "club": "KF SHQIPONJAT"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cc644fbfc_arberia.png",
+      "new": "/images/clubs/cc644fbfc_arberia.png",
+      "filename": "cc644fbfc_arberia.png",
+      "club": "KF ARBËRIA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c3285e1fe_kosovavr.png",
+      "new": "/images/clubs/c3285e1fe_kosovavr.png",
+      "filename": "c3285e1fe_kosovavr.png",
+      "club": "KF KOSOVA VR"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/641b50864_SHARRINEW.png",
+      "new": "/images/clubs/641b50864_SHARRINEW.png",
+      "filename": "641b50864_SHARRINEW.png",
+      "club": "KF SHARRI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8ed8ea227_PODUJEVA.png",
+      "new": "/images/clubs/8ed8ea227_PODUJEVA.png",
+      "filename": "8ed8ea227_PODUJEVA.png",
+      "club": "KF PODUJEVA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4c5d72f8c_FUSHEKOSOVA.png",
+      "new": "/images/clubs/4c5d72f8c_FUSHEKOSOVA.png",
+      "filename": "4c5d72f8c_FUSHEKOSOVA.png",
+      "club": "KF FUSHË KOSOVA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4d3c9ec5b_dardaniaqyshk.png",
+      "new": "/images/clubs/4d3c9ec5b_dardaniaqyshk.png",
+      "filename": "4d3c9ec5b_dardaniaqyshk.png",
+      "club": "KF DARDANIA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7d776c609_FLAMURTARI.png",
+      "new": "/images/clubs/7d776c609_FLAMURTARI.png",
+      "filename": "7d776c609_FLAMURTARI.png",
+      "club": "KF FLAMURTARI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/78f4bb0bd_RAHOVECI.png",
+      "new": "/images/clubs/78f4bb0bd_RAHOVECI.png",
+      "filename": "78f4bb0bd_RAHOVECI.png",
+      "club": "KF RAHOVECI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c04423098_ulpiana.png",
+      "new": "/images/clubs/c04423098_ulpiana.png",
+      "filename": "c04423098_ulpiana.png",
+      "club": "KF ULPIANA 1926"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3a389aad3_RILINDJAPR.png",
+      "new": "/images/clubs/3a389aad3_RILINDJAPR.png",
+      "filename": "3a389aad3_RILINDJAPR.png",
+      "club": "KF RILINDJA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/688eceff9_DRINIBARDHE.png",
+      "new": "/images/clubs/688eceff9_DRINIBARDHE.png",
+      "filename": "688eceff9_DRINIBARDHE.png",
+      "club": "KF DRINI I BARDHË"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4529eee9f_MITROVICA.png",
+      "new": "/images/clubs/4529eee9f_MITROVICA.png",
+      "filename": "4529eee9f_MITROVICA.png",
+      "club": "KF MITROVICA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1b146abdc_ISTOGU-03.png",
+      "new": "/images/clubs/1b146abdc_ISTOGU-03.png",
+      "filename": "1b146abdc_ISTOGU-03.png",
+      "club": "ISTOGU 03"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b9e8a399c_TOPFOOT.png",
+      "new": "/images/clubs/b9e8a399c_TOPFOOT.png",
+      "filename": "b9e8a399c_TOPFOOT.png",
+      "club": "TOP FOOTBALL"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8821fa2d9_TREPCA.png",
+      "new": "/images/clubs/8821fa2d9_TREPCA.png",
+      "filename": "8821fa2d9_TREPCA.png",
+      "club": "KF TREPÇA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4d8deb997_DUKAGJINI.png",
+      "new": "/images/clubs/4d8deb997_DUKAGJINI.png",
+      "filename": "4d8deb997_DUKAGJINI.png",
+      "club": "KF DUKAGJINI U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/69fbf7b17_LLAPI.png",
+      "new": "/images/clubs/69fbf7b17_LLAPI.png",
+      "filename": "69fbf7b17_LLAPI.png",
+      "club": "KF LLAPI U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/62755df5e_MALISHEVA.png",
+      "new": "/images/clubs/62755df5e_MALISHEVA.png",
+      "filename": "62755df5e_MALISHEVA.png",
+      "club": "KF MALISHEVA U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1cc22f321_BALLKANI.png",
+      "new": "/images/clubs/1cc22f321_BALLKANI.png",
+      "filename": "1cc22f321_BALLKANI.png",
+      "club": "KF BALLKANI U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fb63f34a2_DRENICA.png",
+      "new": "/images/clubs/fb63f34a2_DRENICA.png",
+      "filename": "fb63f34a2_DRENICA.png",
+      "club": "KF DRENICA U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/530ce6663_PRISHTINARE.png",
+      "new": "/images/clubs/530ce6663_PRISHTINARE.png",
+      "filename": "530ce6663_PRISHTINARE.png",
+      "club": "KF PRISHTINA E RE U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f724f6ed9_PRISHTINA.png",
+      "new": "/images/clubs/f724f6ed9_PRISHTINA.png",
+      "filename": "f724f6ed9_PRISHTINA.png",
+      "club": "FC PRISHTINA U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/287a4ea9b_DRITA.png",
+      "new": "/images/clubs/287a4ea9b_DRITA.png",
+      "filename": "287a4ea9b_DRITA.png",
+      "club": "KF DRITA U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c7a8be4ee_PRIZRENI.png",
+      "new": "/images/clubs/c7a8be4ee_PRIZRENI.png",
+      "filename": "c7a8be4ee_PRIZRENI.png",
+      "club": "KF PRIZRENI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0a670ef2f_KEKU.png",
+      "new": "/images/clubs/0a670ef2f_KEKU.png",
+      "filename": "0a670ef2f_KEKU.png",
+      "club": "KF KEK-u"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b45ba592c_RILINDJA1974.png",
+      "new": "/images/clubs/b45ba592c_RILINDJA1974.png",
+      "filename": "b45ba592c_RILINDJA1974.png",
+      "club": "KF RILINDJA 1974"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/76bd1d3f0_BESAPEJA.png",
+      "new": "/images/clubs/76bd1d3f0_BESAPEJA.png",
+      "filename": "76bd1d3f0_BESAPEJA.png",
+      "club": "KF BESA PEJA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3253f8498_ISTOGU.png",
+      "new": "/images/clubs/3253f8498_ISTOGU.png",
+      "filename": "3253f8498_ISTOGU.png",
+      "club": "KF ISTOGU"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/af1f00f90_VJOSA.png",
+      "new": "/images/clubs/af1f00f90_VJOSA.png",
+      "filename": "af1f00f90_VJOSA.png",
+      "club": "KF VJOSA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bbb5aee45_KIKA.png",
+      "new": "/images/clubs/bbb5aee45_KIKA.png",
+      "filename": "bbb5aee45_KIKA.png",
+      "club": "KF KIKA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/94ee35b49_SUHAREKA.png",
+      "new": "/images/clubs/94ee35b49_SUHAREKA.png",
+      "filename": "94ee35b49_SUHAREKA.png",
+      "club": "KF SUHAREKA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5f485fc5c_RAMIZSADIKU.png",
+      "new": "/images/clubs/5f485fc5c_RAMIZSADIKU.png",
+      "filename": "5f485fc5c_RAMIZSADIKU.png",
+      "club": "KF RAMIZ SADIKU"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e0379c2c7_LIRIA.png",
+      "new": "/images/clubs/e0379c2c7_LIRIA.png",
+      "filename": "e0379c2c7_LIRIA.png",
+      "club": "KF LIRIA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1c3f959f3_TREPCA89.png",
+      "new": "/images/clubs/1c3f959f3_TREPCA89.png",
+      "filename": "1c3f959f3_TREPCA89.png",
+      "club": "KF TREPÇA '89"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ed0387c2a_VELLAZNIMI.png",
+      "new": "/images/clubs/ed0387c2a_VELLAZNIMI.png",
+      "filename": "ed0387c2a_VELLAZNIMI.png",
+      "club": "KF VËLLAZNIMI "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/17e94a9d7_FERONIKLI.png",
+      "new": "/images/clubs/17e94a9d7_FERONIKLI.png",
+      "filename": "17e94a9d7_FERONIKLI.png",
+      "club": "KF FERONIKELI 74"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b39cb97e1_DINAMOFERIZAJ.png",
+      "new": "/images/clubs/b39cb97e1_DINAMOFERIZAJ.png",
+      "filename": "b39cb97e1_DINAMOFERIZAJ.png",
+      "club": "KF DINAMO FERIZAJ"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f0c865a7e_VUSHTRRIA.png",
+      "new": "/images/clubs/f0c865a7e_VUSHTRRIA.png",
+      "filename": "f0c865a7e_VUSHTRRIA.png",
+      "club": "KF VUSHTRRIA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0441abc1f_lepenci.png",
+      "new": "/images/clubs/0441abc1f_lepenci.png",
+      "filename": "0441abc1f_lepenci.png",
+      "club": "KF LEPENCI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bdba02ae8_VllazniaPozheran.png",
+      "new": "/images/clubs/bdba02ae8_VllazniaPozheran.png",
+      "filename": "bdba02ae8_VllazniaPozheran.png",
+      "club": "KF VLLAZNIA POZHERAN"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8f5f34b4f_FERIZAJ.png",
+      "new": "/images/clubs/8f5f34b4f_FERIZAJ.png",
+      "filename": "8f5f34b4f_FERIZAJ.png",
+      "club": "KF FERIZAJ U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/966cf58ad_GJILANI.png",
+      "new": "/images/clubs/966cf58ad_GJILANI.png",
+      "filename": "966cf58ad_GJILANI.png",
+      "club": "SC GJILANI U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0006def3b_TEFIKCANGA.png",
+      "new": "/images/clubs/0006def3b_TEFIKCANGA.png",
+      "filename": "0006def3b_TEFIKCANGA.png",
+      "club": "KF TEFIK ÇANGA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0c69e0f47_2KORRIKU.png",
+      "new": "/images/clubs/0c69e0f47_2KORRIKU.png",
+      "filename": "0c69e0f47_2KORRIKU.png",
+      "club": "KF 2 KORRIKU"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/457c91dfd_DUKAGJINI.png",
+      "new": "/images/clubs/457c91dfd_DUKAGJINI.png",
+      "filename": "457c91dfd_DUKAGJINI.png",
+      "club": "KF DUKAGJINI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/13daef712_PRISHTINARE.png",
+      "new": "/images/clubs/13daef712_PRISHTINARE.png",
+      "filename": "13daef712_PRISHTINARE.png",
+      "club": "KF PRISHTINA E RE "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d087b8b10_LLAPI.png",
+      "new": "/images/clubs/d087b8b10_LLAPI.png",
+      "filename": "d087b8b10_LLAPI.png",
+      "club": "KF LLAPI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d53c0bc3b_FERIZAJ.png",
+      "new": "/images/clubs/d53c0bc3b_FERIZAJ.png",
+      "filename": "d53c0bc3b_FERIZAJ.png",
+      "club": "KF FERIZAJ"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/baf542e16_GJILANI.png",
+      "new": "/images/clubs/baf542e16_GJILANI.png",
+      "filename": "baf542e16_GJILANI.png",
+      "club": "SC GJILANI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/464ac440d_PRISHTINA.png",
+      "new": "/images/clubs/464ac440d_PRISHTINA.png",
+      "filename": "464ac440d_PRISHTINA.png",
+      "club": "FC PRISHTINA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f4a06afae_DRENICA.png",
+      "new": "/images/clubs/f4a06afae_DRENICA.png",
+      "filename": "f4a06afae_DRENICA.png",
+      "club": "KF DRENICA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/46aa54bb8_MALISHEVA.png",
+      "new": "/images/clubs/46aa54bb8_MALISHEVA.png",
+      "filename": "46aa54bb8_MALISHEVA.png",
+      "club": "KF MALISHEVA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cbebc9647_BALLKANI.png",
+      "new": "/images/clubs/cbebc9647_BALLKANI.png",
+      "filename": "cbebc9647_BALLKANI.png",
+      "club": "FC BALLKANI"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/133031c0f_DRITA.png",
+      "new": "/images/clubs/133031c0f_DRITA.png",
+      "filename": "133031c0f_DRITA.png",
+      "club": "FC DRITA"
+    }
+  ],
+  "competitions": [
+    {
+      "old": "https://media.base44.com/images/public/69c340685dca7075d7622e15/1d13df0d5_SPFEMRAT.png",
+      "new": "/images/competitions/1d13df0d5_SPFEMRAT.png",
+      "filename": "1d13df0d5_SPFEMRAT.png",
+      "comp": "SUPERLIGA E FEMRAVE"
+    },
+    {
+      "old": "https://media.base44.com/images/public/69c340685dca7075d7622e15/09a483065_LOGOLIGA_transparent.png",
+      "new": "/images/competitions/09a483065_LOGOLIGA_transparent.png",
+      "filename": "09a483065_LOGOLIGA_transparent.png",
+      "comp": "SUPERLIGA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5a8b89052_kupaeks.png",
+      "new": "/images/competitions/5a8b89052_kupaeks.png",
+      "filename": "5a8b89052_kupaeks.png",
+      "comp": "KUPA E KOSOVËS"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8140b474a_LIGAEDYTE.png",
+      "new": "/images/competitions/8140b474a_LIGAEDYTE.png",
+      "filename": "8140b474a_LIGAEDYTE.png",
+      "comp": "LIGA E DYTË E KOSOVËS"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/22250fc28_RaiffeisenLigaPare.png",
+      "new": "/images/competitions/22250fc28_RaiffeisenLigaPare.png",
+      "filename": "22250fc28_RaiffeisenLigaPare.png",
+      "comp": "RAIFFEISEN LIGA E PARË"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "new": "/images/competitions/d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "filename": "d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "comp": "ALBI MALL SUPERLIGA"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3f7fc5f5c_FRIENDLY.png",
+      "new": "/images/competitions/3f7fc5f5c_FRIENDLY.png",
+      "filename": "3f7fc5f5c_FRIENDLY.png",
+      "comp": "MIQËSORE"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5a8b89052_kupaeks.png",
+      "new": "/images/competitions/5a8b89052_kupaeks.png",
+      "filename": "5a8b89052_kupaeks.png",
+      "comp": "KUPA E KOSOVËS"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b645e3037_LOGOU19.png",
+      "new": "/images/competitions/b645e3037_LOGOU19.png",
+      "filename": "b645e3037_LOGOU19.png",
+      "comp": "SUPERLIGA U19"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b7c564295_SUPERLIGAU21.png",
+      "new": "/images/competitions/b7c564295_SUPERLIGAU21.png",
+      "filename": "b7c564295_SUPERLIGAU21.png",
+      "comp": "SUPERLIGA U21"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8140b474a_LIGAEDYTE.png",
+      "new": "/images/competitions/8140b474a_LIGAEDYTE.png",
+      "filename": "8140b474a_LIGAEDYTE.png",
+      "comp": "LIGA E DYTË E KOSOVËS"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/22250fc28_RaiffeisenLigaPare.png",
+      "new": "/images/competitions/22250fc28_RaiffeisenLigaPare.png",
+      "filename": "22250fc28_RaiffeisenLigaPare.png",
+      "comp": "RAIFFEISEN LIGA E PARË"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "new": "/images/competitions/d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "filename": "d3a2a147a_ALBIMALLSUPERLIGA.png",
+      "comp": "ALBI MALL SUPERLIGA"
+    }
+  ],
+  "players": [
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5f83133b7_player_fc512e_transparent.webp",
+      "new": "/images/players/5f83133b7_player_fc512e_transparent.webp",
+      "filename": "5f83133b7_player_fc512e_transparent.webp",
+      "player": "Skifter Mustafa"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2e5c59c2d_player_1ad0a2_transparent.webp",
+      "new": "/images/players/2e5c59c2d_player_1ad0a2_transparent.webp",
+      "filename": "2e5c59c2d_player_1ad0a2_transparent.webp",
+      "player": "Eurolind Avdimetaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/05c2ae129_player_706a36_transparent.webp",
+      "new": "/images/players/05c2ae129_player_706a36_transparent.webp",
+      "filename": "05c2ae129_player_706a36_transparent.webp",
+      "player": "Anis Kollari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0775938ea_player_3db703_white_transparent.webp",
+      "new": "/images/players/0775938ea_player_3db703_white_transparent.webp",
+      "filename": "0775938ea_player_3db703_white_transparent.webp",
+      "player": "Lis Demiri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/50517845c_player_6f9ece_transparent.webp",
+      "new": "/images/players/50517845c_player_6f9ece_transparent.webp",
+      "filename": "50517845c_player_6f9ece_transparent.webp",
+      "player": "Enes Morina"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2eaed9744_player_profile_11_transparent.webp",
+      "new": "/images/players/2eaed9744_player_profile_11_transparent.webp",
+      "filename": "2eaed9744_player_profile_11_transparent.webp",
+      "player": "Udoyen Akpan"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6e30e8b14_player7_transparent1.webp",
+      "new": "/images/players/6e30e8b14_player7_transparent1.webp",
+      "filename": "6e30e8b14_player7_transparent1.webp",
+      "player": "Jorginho Soares"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f5d6c8bc4_player_glitch_fixed_transparent.webp",
+      "new": "/images/players/f5d6c8bc4_player_glitch_fixed_transparent.webp",
+      "filename": "f5d6c8bc4_player_glitch_fixed_transparent.webp",
+      "player": "Oltion Gashi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3a61042d4_player8_transparent1.webp",
+      "new": "/images/players/3a61042d4_player8_transparent1.webp",
+      "filename": "3a61042d4_player8_transparent1.webp",
+      "player": "Enis Neziri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/9b6816d8e_player_c88942_transparent.webp",
+      "new": "/images/players/9b6816d8e_player_c88942_transparent.webp",
+      "filename": "9b6816d8e_player_c88942_transparent.webp",
+      "player": "Robert Ndjigi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/554aebea8_player_transparent_tiny_web1.webp",
+      "new": "/images/players/554aebea8_player_transparent_tiny_web1.webp",
+      "filename": "554aebea8_player_transparent_tiny_web1.webp",
+      "player": "Harallamb Qaqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2432cbd76_player2_transparent_tiny_web.webp",
+      "new": "/images/players/2432cbd76_player2_transparent_tiny_web.webp",
+      "filename": "2432cbd76_player2_transparent_tiny_web.webp",
+      "player": "Ergyn Ahmeti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/65fc2b468_selmani.webp",
+      "new": "/images/players/65fc2b468_selmani.webp",
+      "filename": "65fc2b468_selmani.webp",
+      "player": "Gentian Selmani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5713cfaf2_agonmucolli.webp",
+      "new": "/images/players/5713cfaf2_agonmucolli.webp",
+      "filename": "5713cfaf2_agonmucolli.webp",
+      "player": "Agon Mucolli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/792be2cf7_teintroost.webp",
+      "new": "/images/players/792be2cf7_teintroost.webp",
+      "filename": "792be2cf7_teintroost.webp",
+      "player": "Tein Troost"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/22e9e465b_transparent_38310b.webp",
+      "new": "/images/players/22e9e465b_transparent_38310b.webp",
+      "filename": "22e9e465b_transparent_38310b.webp",
+      "player": "Agron Kolaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/312138092_player_green_transparent.webp",
+      "new": "/images/players/312138092_player_green_transparent.webp",
+      "filename": "312138092_player_green_transparent.webp",
+      "player": "Alertin Morina"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/705df5909_player_d250fd_straight_transparent.webp",
+      "new": "/images/players/705df5909_player_d250fd_straight_transparent.webp",
+      "filename": "705df5909_player_d250fd_straight_transparent.webp",
+      "player": "Bledion Pllana"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/25e7b056a_player_a6621f_transparent.webp",
+      "new": "/images/players/25e7b056a_player_a6621f_transparent.webp",
+      "filename": "25e7b056a_player_a6621f_transparent.webp",
+      "player": "Krenar Halili"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7c2f72a3f_player_390e56_transparent.webp",
+      "new": "/images/players/7c2f72a3f_player_390e56_transparent.webp",
+      "filename": "7c2f72a3f_player_390e56_transparent.webp",
+      "player": "Erion Doberdoli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ff884d6b7_player_8976d9_professional_transparent.webp",
+      "new": "/images/players/ff884d6b7_player_8976d9_professional_transparent.w",
+      "filename": "ff884d6b7_player_8976d9_professional_transparent.w",
+      "player": "Reis Maxhuni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fc93165cb_player_0d3045_transparent.webp",
+      "new": "/images/players/fc93165cb_player_0d3045_transparent.webp",
+      "filename": "fc93165cb_player_0d3045_transparent.webp",
+      "player": "Rigon Spahiu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f5eef5463_player_cef508_transparent_final.webp",
+      "new": "/images/players/f5eef5463_player_cef508_transparent_final.webp",
+      "filename": "f5eef5463_player_cef508_transparent_final.webp",
+      "player": "Leart Popaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ffd73dc1b_player11_transparent.webp",
+      "new": "/images/players/ffd73dc1b_player11_transparent.webp",
+      "filename": "ffd73dc1b_player11_transparent.webp",
+      "player": "Jetmir Topalli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3732f9b36_player_clear_transparent_bald.webp",
+      "new": "/images/players/3732f9b36_player_clear_transparent_bald.webp",
+      "filename": "3732f9b36_player_clear_transparent_bald.webp",
+      "player": "Alush Gavazaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c7997212f_player_profile_transparent_bearded.webp",
+      "new": "/images/players/c7997212f_player_profile_transparent_bearded.webp",
+      "filename": "c7997212f_player_profile_transparent_bearded.webp",
+      "player": "Altin Vojvoda"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/89478cb31_lorenttalla.jpg",
+      "new": "/images/players/89478cb31_lorenttalla.jpg",
+      "filename": "89478cb31_lorenttalla.jpg",
+      "player": "Lorent Talla"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/586aa624c_player_c85f68_white_shirt_transparent.webp",
+      "new": "/images/players/586aa624c_player_c85f68_white_shirt_transparent.we",
+      "filename": "586aa624c_player_c85f68_white_shirt_transparent.we",
+      "player": "Albert Gerguri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/518b1bd81_laorent.jpg",
+      "new": "/images/players/518b1bd81_laorent.jpg",
+      "filename": "518b1bd81_laorent.jpg",
+      "player": "Laorent Shabani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fb379aa10_player8_transparent.webp",
+      "new": "/images/players/fb379aa10_player8_transparent.webp",
+      "filename": "fb379aa10_player8_transparent.webp",
+      "player": "Erlis Xhemajli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/289cc6a08_player_a07581_transparent.webp",
+      "new": "/images/players/289cc6a08_player_a07581_transparent.webp",
+      "filename": "289cc6a08_player_a07581_transparent.webp",
+      "player": "Dijar Nikqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ab10f837a_player_1d61ab_transparent.webp",
+      "new": "/images/players/ab10f837a_player_1d61ab_transparent.webp",
+      "filename": "ab10f837a_player_1d61ab_transparent.webp",
+      "player": "Albin Berisha"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4cd81cc86_player_blue_transparent_final.webp",
+      "new": "/images/players/4cd81cc86_player_blue_transparent_final.webp",
+      "filename": "4cd81cc86_player_blue_transparent_final.webp",
+      "player": "Almedin Klinaku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/424aec0ff_player2_transparent1.webp",
+      "new": "/images/players/424aec0ff_player2_transparent1.webp",
+      "filename": "424aec0ff_player2_transparent1.webp",
+      "player": "Ideal Bytyqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f7b17cc4e_player12_transparent.webp",
+      "new": "/images/players/f7b17cc4e_player12_transparent.webp",
+      "filename": "f7b17cc4e_player12_transparent.webp",
+      "player": "Edvin Kuc"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b354c98d8_player_69aaee_transparent.webp",
+      "new": "/images/players/b354c98d8_player_69aaee_transparent.webp",
+      "filename": "b354c98d8_player_69aaee_transparent.webp",
+      "player": "Abou Dosso"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4d63dcb68_player9_transparent.webp",
+      "new": "/images/players/4d63dcb68_player9_transparent.webp",
+      "filename": "4d63dcb68_player9_transparent.webp",
+      "player": "Toni Domgjoni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c76d8d66d_person_transparent_744b25.webp",
+      "new": "/images/players/c76d8d66d_person_transparent_744b25.webp",
+      "filename": "c76d8d66d_person_transparent_744b25.webp",
+      "player": "Jork Becerra"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4e9f476a9_player_web_128.webp",
+      "new": "/images/players/4e9f476a9_player_web_128.webp",
+      "filename": "4e9f476a9_player_web_128.webp",
+      "player": "Abdoul Dante"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/94dba42bb_head_shoulder_portrait_white_background.webp",
+      "new": "/images/players/94dba42bb_head_shoulder_portrait_white_background.",
+      "filename": "94dba42bb_head_shoulder_portrait_white_background.",
+      "player": "Enes Beqiri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/73a7ae9d4_clear_blue_tiny_256.png",
+      "new": "/images/players/73a7ae9d4_clear_blue_tiny_256.png",
+      "filename": "73a7ae9d4_clear_blue_tiny_256.png",
+      "player": "Yaid Marhoum"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/dcf40943a_player2_tiny_256.png",
+      "new": "/images/players/dcf40943a_player2_tiny_256.png",
+      "filename": "dcf40943a_player2_tiny_256.png",
+      "player": "Abdoulaye Yahaya"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/213cc11ac_dfdd54_nologo_tiny_256.png",
+      "new": "/images/players/213cc11ac_dfdd54_nologo_tiny_256.png",
+      "filename": "213cc11ac_dfdd54_nologo_tiny_256.png",
+      "player": "Zani Nazifi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/81c65f124_player3_tiny_256.png",
+      "new": "/images/players/81c65f124_player3_tiny_256.png",
+      "filename": "81c65f124_player3_tiny_256.png",
+      "player": "Pjero Skaric"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fa3be1a7c_white_portrait_studio.webp",
+      "new": "/images/players/fa3be1a7c_white_portrait_studio.webp",
+      "filename": "fa3be1a7c_white_portrait_studio.webp",
+      "player": "Arlind Maloku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c76a3abfa_portrait_white_background.webp",
+      "new": "/images/players/c76a3abfa_portrait_white_background.webp",
+      "filename": "c76a3abfa_portrait_white_background.webp",
+      "player": "Loris Kolgeci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/497d34f1e_3959_tiny_256.png",
+      "new": "/images/players/497d34f1e_3959_tiny_256.png",
+      "filename": "497d34f1e_3959_tiny_256.png",
+      "player": "Rilind Hetemi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7969ff924_player4_tiny_256.png",
+      "new": "/images/players/7969ff924_player4_tiny_256.png",
+      "filename": "7969ff924_player4_tiny_256.png",
+      "player": "Joep Kluskens"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ac0b239ba_najdoski_tiny_256.png",
+      "new": "/images/players/ac0b239ba_najdoski_tiny_256.png",
+      "filename": "ac0b239ba_najdoski_tiny_256.png",
+      "player": "Nikola Najdovski"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1d2afd59b_SORENSEN.jpg",
+      "new": "/images/players/1d2afd59b_SORENSEN.jpg",
+      "filename": "1d2afd59b_SORENSEN.jpg",
+      "player": "Aris Sörensen"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c514920ad_young_man_yellow_jersey.webp",
+      "new": "/images/players/c514920ad_young_man_yellow_jersey.webp",
+      "filename": "c514920ad_young_man_yellow_jersey.webp",
+      "player": "Maximilian Grote"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/953d56881_young_man_white_background.webp",
+      "new": "/images/players/953d56881_young_man_white_background.webp",
+      "filename": "953d56881_young_man_white_background.webp",
+      "player": "Dion Sahiti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/9fdedb0a0_image_30.webp",
+      "new": "/images/players/9fdedb0a0_image_30.webp",
+      "filename": "9fdedb0a0_image_30.webp",
+      "player": "Dimal Isufi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cecc0577d_smiling_man_white_background_2.webp",
+      "new": "/images/players/cecc0577d_smiling_man_white_background_2.webp",
+      "filename": "cecc0577d_smiling_man_white_background_2.webp",
+      "player": "Urim Statovci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f4abde122_man_white_background_4.webp",
+      "new": "/images/players/f4abde122_man_white_background_4.webp",
+      "filename": "f4abde122_man_white_background_4.webp",
+      "player": "Dardan Ademi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/52f4f1446_white_studio_portrait.webp",
+      "new": "/images/players/52f4f1446_white_studio_portrait.webp",
+      "filename": "52f4f1446_white_studio_portrait.webp",
+      "player": "Ardit Hasani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8cb232370_man_white_background_3.webp",
+      "new": "/images/players/8cb232370_man_white_background_3.webp",
+      "filename": "8cb232370_man_white_background_3.webp",
+      "player": "Kreshnik Bahtiri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4a9e16343_image_33.webp",
+      "new": "/images/players/4a9e16343_image_33.webp",
+      "filename": "4a9e16343_image_33.webp",
+      "player": "Klejdi Paloka"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6e584367c_man_white_background.webp",
+      "new": "/images/players/6e584367c_man_white_background.webp",
+      "filename": "6e584367c_man_white_background.webp",
+      "player": "Gentian Emini"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/865b7c0fa_player4_green_transparent.webp",
+      "new": "/images/players/865b7c0fa_player4_green_transparent.webp",
+      "filename": "865b7c0fa_player4_green_transparent.webp",
+      "player": "Loris Mrijaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d5725159f_player_clear_transparent_new.webp",
+      "new": "/images/players/d5725159f_player_clear_transparent_new.webp",
+      "filename": "d5725159f_player_clear_transparent_new.webp",
+      "player": "Dren Aliqku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/11f4bd8a2_player_transparent.webp",
+      "new": "/images/players/11f4bd8a2_player_transparent.webp",
+      "filename": "11f4bd8a2_player_transparent.webp",
+      "player": "Mjaltin Kastrati"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/80690cf65_player_33a6ed_transparent.webp",
+      "new": "/images/players/80690cf65_player_33a6ed_transparent.webp",
+      "filename": "80690cf65_player_33a6ed_transparent.webp",
+      "player": "Edonis Ramadani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cc0418ec4_player_new_transparent_final.webp",
+      "new": "/images/players/cc0418ec4_player_new_transparent_final.webp",
+      "filename": "cc0418ec4_player_new_transparent_final.webp",
+      "player": "Elvis Geci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b38f05a41_white_shirt_clear_transparent.webp",
+      "new": "/images/players/b38f05a41_white_shirt_clear_transparent.webp",
+      "filename": "b38f05a41_white_shirt_clear_transparent.webp",
+      "player": "Erion Idrizi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f5f99765d_transparent_stadium_bg.webp",
+      "new": "/images/players/f5f99765d_transparent_stadium_bg.webp",
+      "filename": "f5f99765d_transparent_stadium_bg.webp",
+      "player": "Donat Mehmeti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1b3cd1c96_player_profile_transparent.webp",
+      "new": "/images/players/1b3cd1c96_player_profile_transparent.webp",
+      "filename": "1b3cd1c96_player_profile_transparent.webp",
+      "player": "Egzon Fazliu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bc6f84682_player_transparent_final.webp",
+      "new": "/images/players/bc6f84682_player_transparent_final.webp",
+      "filename": "bc6f84682_player_transparent_final.webp",
+      "player": "Endrit Shala"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/44bbe25f6_player_blue_collar_transparent.webp",
+      "new": "/images/players/44bbe25f6_player_blue_collar_transparent.webp",
+      "filename": "44bbe25f6_player_blue_collar_transparent.webp",
+      "player": "Amar Demolli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8c2881f53_player_white_no_medal_transparent.webp",
+      "new": "/images/players/8c2881f53_player_white_no_medal_transparent.webp",
+      "filename": "8c2881f53_player_white_no_medal_transparent.webp",
+      "player": "Jon Biringjiku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/82602c1fe_young_man_clear_transparent.webp",
+      "new": "/images/players/82602c1fe_young_man_clear_transparent.webp",
+      "filename": "82602c1fe_young_man_clear_transparent.webp",
+      "player": "Riad Demiri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6e977d6a0_p2.webp",
+      "new": "/images/players/6e977d6a0_p2.webp",
+      "filename": "6e977d6a0_p2.webp",
+      "player": "Amrush Bujupi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7ac4279cf_green_polo_transparent.webp",
+      "new": "/images/players/7ac4279cf_green_polo_transparent.webp",
+      "filename": "7ac4279cf_green_polo_transparent.webp",
+      "player": "Alban Shillova"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d2686d933_player_final.webp",
+      "new": "/images/players/d2686d933_player_final.webp",
+      "filename": "d2686d933_player_final.webp",
+      "player": "Adrian Durmishaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/84755d593_transparent_new.webp",
+      "new": "/images/players/84755d593_transparent_new.webp",
+      "filename": "84755d593_transparent_new.webp",
+      "player": "Omar Musaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bc211719c_young_man_clear_transparent1.webp",
+      "new": "/images/players/bc211719c_young_man_clear_transparent1.webp",
+      "filename": "bc211719c_young_man_clear_transparent1.webp",
+      "player": "Gjergji Kote"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cc66bba82_clear_transparent_final_0.webp",
+      "new": "/images/players/cc66bba82_clear_transparent_final_0.webp",
+      "filename": "cc66bba82_clear_transparent_final_0.webp",
+      "player": "Shkelzen Lushtaku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2e59f10c8_aurel.jpg",
+      "new": "/images/players/2e59f10c8_aurel.jpg",
+      "filename": "2e59f10c8_aurel.jpg",
+      "player": "Aurel Limani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/34b001270_player_transparent_profile_new.webp",
+      "new": "/images/players/34b001270_player_transparent_profile_new.webp",
+      "filename": "34b001270_player_transparent_profile_new.webp",
+      "player": "Besfort Dervishaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3b9026d43_redbeard_transparent_final.webp",
+      "new": "/images/players/3b9026d43_redbeard_transparent_final.webp",
+      "filename": "3b9026d43_redbeard_transparent_final.webp",
+      "player": "Osman Meziu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0a8569055_person_final.webp",
+      "new": "/images/players/0a8569055_person_final.webp",
+      "filename": "0a8569055_person_final.webp",
+      "player": "Arion Ymeri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/86c59ac2d_frontal_headshot_portrait.webp",
+      "new": "/images/players/86c59ac2d_frontal_headshot_portrait.webp",
+      "filename": "86c59ac2d_frontal_headshot_portrait.webp",
+      "player": "Auron Hamiti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/88292a473_man_white_background_7.webp",
+      "new": "/images/players/88292a473_man_white_background_7.webp",
+      "filename": "88292a473_man_white_background_7.webp",
+      "player": "Kim Sane"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/98e54da2e_man_white_background_1.webp",
+      "new": "/images/players/98e54da2e_man_white_background_1.webp",
+      "filename": "98e54da2e_man_white_background_1.webp",
+      "player": "Gentrit Ulluri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/884386f00_player8_clear_tiny_web.webp",
+      "new": "/images/players/884386f00_player8_clear_tiny_web.webp",
+      "filename": "884386f00_player8_clear_tiny_web.webp",
+      "player": "Ardin Dallku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fc03cbef1_player_profile_transparent1.webp",
+      "new": "/images/players/fc03cbef1_player_profile_transparent1.webp",
+      "filename": "fc03cbef1_player_profile_transparent1.webp",
+      "player": "Arvanit Rexhaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3ac5799a1_player3_transparent1.webp",
+      "new": "/images/players/3ac5799a1_player3_transparent1.webp",
+      "filename": "3ac5799a1_player3_transparent1.webp",
+      "player": "Gentrit Salihu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a62fc8f97_player6_transparent3.webp",
+      "new": "/images/players/a62fc8f97_player6_transparent3.webp",
+      "filename": "a62fc8f97_player6_transparent3.webp",
+      "player": "Kron Thaqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5519aba47_player_transparent_04fd.webp",
+      "new": "/images/players/5519aba47_player_transparent_04fd.webp",
+      "filename": "5519aba47_player_transparent_04fd.webp",
+      "player": "DaSilva Luan"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c049f9a98_player6_transparent4.webp",
+      "new": "/images/players/c049f9a98_player6_transparent4.webp",
+      "filename": "c049f9a98_player6_transparent4.webp",
+      "player": "Erjon Krasniqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a9ac05c6b_player6_clear_tiny_web.webp",
+      "new": "/images/players/a9ac05c6b_player6_clear_tiny_web.webp",
+      "filename": "a9ac05c6b_player6_clear_tiny_web.webp",
+      "player": "Denis Hyseni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b71713e1b_player10_transparent1.webp",
+      "new": "/images/players/b71713e1b_player10_transparent1.webp",
+      "filename": "b71713e1b_player10_transparent1.webp",
+      "player": "Jeudi Stevenson"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b0cb9efa7_image_3.webp",
+      "new": "/images/players/b0cb9efa7_image_3.webp",
+      "filename": "b0cb9efa7_image_3.webp",
+      "player": "Rexhep Murati"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/04abcbc78_transparent_ba0d60.webp",
+      "new": "/images/players/04abcbc78_transparent_ba0d60.webp",
+      "filename": "04abcbc78_transparent_ba0d60.webp",
+      "player": "Korab Luma"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/9652a613d_image_26.webp",
+      "new": "/images/players/9652a613d_image_26.webp",
+      "filename": "9652a613d_image_26.webp",
+      "player": "Etnik Kryeziu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2a44a37c9_image_13.webp",
+      "new": "/images/players/2a44a37c9_image_13.webp",
+      "filename": "2a44a37c9_image_13.webp",
+      "player": "Mark Bushaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6e2e2d965_image_20.webp",
+      "new": "/images/players/6e2e2d965_image_20.webp",
+      "filename": "6e2e2d965_image_20.webp",
+      "player": "Vusal Isgandarli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b23961e14_adnankanuric.webp",
+      "new": "/images/players/b23961e14_adnankanuric.webp",
+      "filename": "b23961e14_adnankanuric.webp",
+      "player": "Adnan Kanuric"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/804e6ce68_yellow_goalkeeper_portrait_1.webp",
+      "new": "/images/players/804e6ce68_yellow_goalkeeper_portrait_1.webp",
+      "filename": "804e6ce68_yellow_goalkeeper_portrait_1.webp",
+      "player": "Egzon Bislimi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/405c11f9c_GENTRITKLA.jpg",
+      "new": "/images/players/405c11f9c_GENTRITKLA.jpg",
+      "filename": "405c11f9c_GENTRITKLA.jpg",
+      "player": "Gentrit Klaiqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4444d18c2_ri.jpg",
+      "new": "/images/players/4444d18c2_ri.jpg",
+      "filename": "4444d18c2_ri.jpg",
+      "player": "Riol Hasani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a391d9d33_player14_tiny.webp",
+      "new": "/images/players/a391d9d33_player14_tiny.webp",
+      "filename": "a391d9d33_player14_tiny.webp",
+      "player": "Lorik Dobratiqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/07b234c63_player_yellow_tiny.webp",
+      "new": "/images/players/07b234c63_player_yellow_tiny.webp",
+      "filename": "07b234c63_player_yellow_tiny.webp",
+      "player": "Dokleat Kastrati"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8808236d3_player13_tiny.webp",
+      "new": "/images/players/8808236d3_player13_tiny.webp",
+      "filename": "8808236d3_player13_tiny.webp",
+      "player": "Ylber Murturi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/941f71220_player10_tiny.webp",
+      "new": "/images/players/941f71220_player10_tiny.webp",
+      "filename": "941f71220_player10_tiny.webp",
+      "player": "Arlind Shabani "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ef7346483_player16_tiny.webp",
+      "new": "/images/players/ef7346483_player16_tiny.webp",
+      "filename": "ef7346483_player16_tiny.webp",
+      "player": "Kamer Rudari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7cafeee39_player15b_tiny.webp",
+      "new": "/images/players/7cafeee39_player15b_tiny.webp",
+      "filename": "7cafeee39_player15b_tiny.webp",
+      "player": "Kresimir Luetic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c0921204a_ODYNTSOV.jpg",
+      "new": "/images/players/c0921204a_ODYNTSOV.jpg",
+      "filename": "c0921204a_ODYNTSOV.jpg",
+      "player": "Artem Odyntsov"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/adca1ae48_player8_tiny.webp",
+      "new": "/images/players/adca1ae48_player8_tiny.webp",
+      "filename": "adca1ae48_player8_tiny.webp",
+      "player": "Ivan Delic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ab46e3762_player_white_transparent_final.webp",
+      "new": "/images/players/ab46e3762_player_white_transparent_final.webp",
+      "filename": "ab46e3762_player_white_transparent_final.webp",
+      "player": "Kastriot Selmani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bcc7e267b_person_transparent_347731.webp",
+      "new": "/images/players/bcc7e267b_person_transparent_347731.webp",
+      "filename": "bcc7e267b_person_transparent_347731.webp",
+      "player": "Ardian Hasani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/30bd30898_person_transparent_68bc86.webp",
+      "new": "/images/players/30bd30898_person_transparent_68bc86.webp",
+      "filename": "30bd30898_person_transparent_68bc86.webp",
+      "player": "Arjanit Fazlija"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e65aa8399_player2_white_transparent.webp",
+      "new": "/images/players/e65aa8399_player2_white_transparent.webp",
+      "filename": "e65aa8399_player2_white_transparent.webp",
+      "player": "Assane Diatta"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2531412fe_person_transparent_5.webp",
+      "new": "/images/players/2531412fe_person_transparent_5.webp",
+      "filename": "2531412fe_person_transparent_5.webp",
+      "player": "Diar Halili"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8705f11ee_person_transparent_4.webp",
+      "new": "/images/players/8705f11ee_person_transparent_4.webp",
+      "filename": "8705f11ee_person_transparent_4.webp",
+      "player": "Anio Poci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/39f97d527_person_no_hand_transparent.webp",
+      "new": "/images/players/39f97d527_person_no_hand_transparent.webp",
+      "filename": "39f97d527_person_no_hand_transparent.webp",
+      "player": "Agron Rufati"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d40a650e8_person_white_shirt_cutout.webp",
+      "new": "/images/players/d40a650e8_person_white_shirt_cutout.webp",
+      "filename": "d40a650e8_person_white_shirt_cutout.webp",
+      "player": "Vangjel Zguro"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/af36878c9_studio_portrait_white_background_1.webp",
+      "new": "/images/players/af36878c9_studio_portrait_white_background_1.webp",
+      "filename": "af36878c9_studio_portrait_white_background_1.webp",
+      "player": "Milazim Bajraktari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/935ddb42d_isufile.jpg",
+      "new": "/images/players/935ddb42d_isufile.jpg",
+      "filename": "935ddb42d_isufile.jpg",
+      "player": "Elton Isufi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/36a138591_soccer_player_portrait.webp",
+      "new": "/images/players/36a138591_soccer_player_portrait.webp",
+      "filename": "36a138591_soccer_player_portrait.webp",
+      "player": "Davud Sylaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/24af8964e_young_man_red_jersey.webp",
+      "new": "/images/players/24af8964e_young_man_red_jersey.webp",
+      "filename": "24af8964e_young_man_red_jersey.webp",
+      "player": "Eugen Ramadani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/67cda0825_yellow_jersey_portrait.webp",
+      "new": "/images/players/67cda0825_yellow_jersey_portrait.webp",
+      "filename": "67cda0825_yellow_jersey_portrait.webp",
+      "player": "Loran Gerbovci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c92f5447e_red_shirt2_300x300.png",
+      "new": "/images/players/c92f5447e_red_shirt2_300x300.png",
+      "filename": "c92f5447e_red_shirt2_300x300.png",
+      "player": "Armend Thaqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f0f8ddfd8_eduardrroca_300x300.png",
+      "new": "/images/players/f0f8ddfd8_eduardrroca_300x300.png",
+      "filename": "f0f8ddfd8_eduardrroca_300x300.png",
+      "player": "Eduard Rroca"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1702631a6_SALIHU.jpg",
+      "new": "/images/players/1702631a6_SALIHU.jpg",
+      "filename": "1702631a6_SALIHU.jpg",
+      "player": "Hajdin Salihu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/9b8dcee6b_MJAKI.jpg",
+      "new": "/images/players/9b8dcee6b_MJAKI.jpg",
+      "filename": "9b8dcee6b_MJAKI.jpg",
+      "player": "Agan Mjaki"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6bb309469_BAETEN-Copy2.jpg",
+      "new": "/images/players/6bb309469_BAETEN-Copy2.jpg",
+      "filename": "6bb309469_BAETEN-Copy2.jpg",
+      "player": "William Baeten"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/876eb0cc3_BYTYCI-Copy2.jpg",
+      "new": "/images/players/876eb0cc3_BYTYCI-Copy2.jpg",
+      "filename": "876eb0cc3_BYTYCI-Copy2.jpg",
+      "player": "Altin Bytyqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b0116b427_ISUFI-Copy2.jpg",
+      "new": "/images/players/b0116b427_ISUFI-Copy2.jpg",
+      "filename": "b0116b427_ISUFI-Copy2.jpg",
+      "player": "Eron Isufi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e8fe7705c_player6_transparent2.webp",
+      "new": "/images/players/e8fe7705c_player6_transparent2.webp",
+      "filename": "e8fe7705c_player6_transparent2.webp",
+      "player": "Edi Maksutaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/05dbf8c93_image_9.webp",
+      "new": "/images/players/05dbf8c93_image_9.webp",
+      "filename": "05dbf8c93_image_9.webp",
+      "player": "Ardian Sopaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cc393625c_player7_clear_tiny_web.webp",
+      "new": "/images/players/cc393625c_player7_clear_tiny_web.webp",
+      "filename": "cc393625c_player7_clear_tiny_web.webp",
+      "player": "Melos Zenunaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d7c114c81_transparent_magenta_0.webp",
+      "new": "/images/players/d7c114c81_transparent_magenta_0.webp",
+      "filename": "d7c114c81_transparent_magenta_0.webp",
+      "player": "Andi Veliqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0d0b554d2_player_straight_web_transparent.webp",
+      "new": "/images/players/0d0b554d2_player_straight_web_transparent.webp",
+      "filename": "0d0b554d2_player_straight_web_transparent.webp",
+      "player": "Redon Zekaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/99a563d7d_player_orange_young_transparent.webp",
+      "new": "/images/players/99a563d7d_player_orange_young_transparent.webp",
+      "filename": "99a563d7d_player_orange_young_transparent.webp",
+      "player": "Ardi Maksutaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b6237decb_image_32.webp",
+      "new": "/images/players/b6237decb_image_32.webp",
+      "filename": "b6237decb_image_32.webp",
+      "player": "Jon Miftari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bba016657_man_white_background_2.webp",
+      "new": "/images/players/bba016657_man_white_background_2.webp",
+      "filename": "bba016657_man_white_background_2.webp",
+      "player": "Albijon Shurdhiqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d97034bf5_studio_portrait_white_background_21.webp",
+      "new": "/images/players/d97034bf5_studio_portrait_white_background_21.webp",
+      "filename": "d97034bf5_studio_portrait_white_background_21.webp",
+      "player": "Daut Maxhuni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f4a73ac30_studio_portrait_white_background1.webp",
+      "new": "/images/players/f4a73ac30_studio_portrait_white_background1.webp",
+      "filename": "f4a73ac30_studio_portrait_white_background1.webp",
+      "player": "Lis Behrami"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/225f4bccc_smiling_man_white_background.webp",
+      "new": "/images/players/225f4bccc_smiling_man_white_background.webp",
+      "filename": "225f4bccc_smiling_man_white_background.webp",
+      "player": "Leutrim Islami"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d9481572d_player_neon_transparent.webp",
+      "new": "/images/players/d9481572d_player_neon_transparent.webp",
+      "filename": "d9481572d_player_neon_transparent.webp",
+      "player": "Drilon Perquku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/39ded5b39_image_28.webp",
+      "new": "/images/players/39ded5b39_image_28.webp",
+      "filename": "39ded5b39_image_28.webp",
+      "player": "Marvin Brozi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b11660ccc_player6_transparent1.webp",
+      "new": "/images/players/b11660ccc_player6_transparent1.webp",
+      "filename": "b11660ccc_player6_transparent1.webp",
+      "player": "Shpresim Zogu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/eb375a722_player7_small.png",
+      "new": "/images/players/eb375a722_player7_small.png",
+      "filename": "eb375a722_player7_small.png",
+      "player": "Daniel Tette"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6fe39eed3_player18_ultra_small.webp",
+      "new": "/images/players/6fe39eed3_player18_ultra_small.webp",
+      "filename": "6fe39eed3_player18_ultra_small.webp",
+      "player": "Ibrahim Cervadiku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/20afc04d2_player17_tiny.webp",
+      "new": "/images/players/20afc04d2_player17_tiny.webp",
+      "filename": "20afc04d2_player17_tiny.webp",
+      "player": "Butrint Ademi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c3971bf22_player19_tiny.webp",
+      "new": "/images/players/c3971bf22_player19_tiny.webp",
+      "filename": "c3971bf22_player19_tiny.webp",
+      "player": "Herolind Shala"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2916e19e9_green_jersey_studio_portrait.webp",
+      "new": "/images/players/2916e19e9_green_jersey_studio_portrait.webp",
+      "filename": "2916e19e9_green_jersey_studio_portrait.webp",
+      "player": "Granit Musa"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/19402f25b_player4_green_nologo1.png",
+      "new": "/images/players/19402f25b_player4_green_nologo1.png",
+      "filename": "19402f25b_player4_green_nologo1.png",
+      "player": "Avni Selmani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c6a690ae0_player9_tiny.webp",
+      "new": "/images/players/c6a690ae0_player9_tiny.webp",
+      "filename": "c6a690ae0_player9_tiny.webp",
+      "player": "Andrija Drljo"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b1ab6d05e_player3_green.png",
+      "new": "/images/players/b1ab6d05e_player3_green.png",
+      "filename": "b1ab6d05e_player3_green.png",
+      "player": "Indrit Prodani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/383583bb1_armendha.jpg",
+      "new": "/images/players/383583bb1_armendha.jpg",
+      "filename": "383583bb1_armendha.jpg",
+      "player": "Armend Halili"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/23d050f27_player11_ultra_small.webp",
+      "new": "/images/players/23d050f27_player11_ultra_small.webp",
+      "filename": "23d050f27_player11_ultra_small.webp",
+      "player": "Endrit Baholli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f273f45e8_player_profile_green.png",
+      "new": "/images/players/f273f45e8_player_profile_green.png",
+      "filename": "f273f45e8_player_profile_green.png",
+      "player": "Fatmir Rexhaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/83f91b636_player3_clear_transparent.webp",
+      "new": "/images/players/83f91b636_player3_clear_transparent.webp",
+      "filename": "83f91b636_player3_clear_transparent.webp",
+      "player": "Lorik Mehmeti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/966018795_ARTHUR-Copy2.jpg",
+      "new": "/images/players/966018795_ARTHUR-Copy2.jpg",
+      "filename": "966018795_ARTHUR-Copy2.jpg",
+      "player": "Mike Arthur "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d1d6da79f_ABAZAJ-Copy2.jpg",
+      "new": "/images/players/d1d6da79f_ABAZAJ-Copy2.jpg",
+      "filename": "d1d6da79f_ABAZAJ-Copy2.jpg",
+      "player": "Kristal Abazaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b2084f595_GREZDA-Copy2.jpg",
+      "new": "/images/players/b2084f595_GREZDA-Copy2.jpg",
+      "filename": "b2084f595_GREZDA-Copy2.jpg",
+      "player": "Oniks Grezda"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/932592ed9_ilirmustafa_300x300.png",
+      "new": "/images/players/932592ed9_ilirmustafa_300x300.png",
+      "filename": "932592ed9_ilirmustafa_300x300.png",
+      "player": "Ilir Mustafa"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/688adbaeb_NGUENA.jpg",
+      "new": "/images/players/688adbaeb_NGUENA.jpg",
+      "filename": "688adbaeb_NGUENA.jpg",
+      "player": "Kemehlo Nguena"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/007e7ae12_LIMAJ.jpg",
+      "new": "/images/players/007e7ae12_LIMAJ.jpg",
+      "filename": "007e7ae12_LIMAJ.jpg",
+      "player": "Vesel Limaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0d41db8be_PELLUMBI.jpg",
+      "new": "/images/players/0d41db8be_PELLUMBI.jpg",
+      "filename": "0d41db8be_PELLUMBI.jpg",
+      "player": "Jorgo Pellumbi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8014f71ce_BEHLULI-Copy2.jpg",
+      "new": "/images/players/8014f71ce_BEHLULI-Copy2.jpg",
+      "filename": "8014f71ce_BEHLULI-Copy2.jpg",
+      "player": "Laurit Behluli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/237d6160b_player_dread_transparent.webp",
+      "new": "/images/players/237d6160b_player_dread_transparent.webp",
+      "filename": "237d6160b_player_dread_transparent.webp",
+      "player": "Ebrima Gaye"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7946529c2_player_no_fingers_transparent.webp",
+      "new": "/images/players/7946529c2_player_no_fingers_transparent.webp",
+      "filename": "7946529c2_player_no_fingers_transparent.webp",
+      "player": "Valentin Serebe"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2f0e61554_studio_portrait_white_background_2.webp",
+      "new": "/images/players/2f0e61554_studio_portrait_white_background_2.webp",
+      "filename": "2f0e61554_studio_portrait_white_background_2.webp",
+      "player": "Bleart Tolaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0bfc75fc3_player_white_red_transparent_final.webp",
+      "new": "/images/players/0bfc75fc3_player_white_red_transparent_final.webp",
+      "filename": "0bfc75fc3_player_white_red_transparent_final.webp",
+      "player": "Walid Hamidi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/14e5d6789_player10_transparent.webp",
+      "new": "/images/players/14e5d6789_player10_transparent.webp",
+      "filename": "14e5d6789_player10_transparent.webp",
+      "player": "Arens Mateli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e67386f88_player_buzz_transparent.webp",
+      "new": "/images/players/e67386f88_player_buzz_transparent.webp",
+      "filename": "e67386f88_player_buzz_transparent.webp",
+      "player": "Engjell Ajazaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e9389a3a1_player_red_clear_transparent.webp",
+      "new": "/images/players/e9389a3a1_player_red_clear_transparent.webp",
+      "filename": "e9389a3a1_player_red_clear_transparent.webp",
+      "player": "Giovanni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2e356a5c6_player_orange_black_new_transparent.webp",
+      "new": "/images/players/2e356a5c6_player_orange_black_new_transparent.webp",
+      "filename": "2e356a5c6_player_orange_black_new_transparent.webp",
+      "player": "Adonis Hoti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cb959c765_player_yellow_black_transparent_final.webp",
+      "new": "/images/players/cb959c765_player_yellow_black_transparent_final.we",
+      "filename": "cb959c765_player_yellow_black_transparent_final.we",
+      "player": "Leonis Murseli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e1435c68f_person_transparent.webp",
+      "new": "/images/players/e1435c68f_person_transparent.webp",
+      "filename": "e1435c68f_person_transparent.webp",
+      "player": "Marsel Ismajlgeci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a0b473f23_player7_transparent_mask.webp",
+      "new": "/images/players/a0b473f23_player7_transparent_mask.webp",
+      "filename": "a0b473f23_player7_transparent_mask.webp",
+      "player": "Anel Sabanadzovic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e9a8ea6e6_diene.jpg",
+      "new": "/images/players/e9a8ea6e6_diene.jpg",
+      "filename": "e9a8ea6e6_diene.jpg",
+      "player": "Albert Diene"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ded6c6b01_player3_transparent.webp",
+      "new": "/images/players/ded6c6b01_player3_transparent.webp",
+      "filename": "ded6c6b01_player3_transparent.webp",
+      "player": "Diar Vokrri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/589f921b2_player4_transparent.webp",
+      "new": "/images/players/589f921b2_player4_transparent.webp",
+      "filename": "589f921b2_player4_transparent.webp",
+      "player": "Elvis Letaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a0c802165_red_jersey_portrait.webp",
+      "new": "/images/players/a0c802165_red_jersey_portrait.webp",
+      "filename": "a0c802165_red_jersey_portrait.webp",
+      "player": "Arber Potoku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/dd288b203_player5_transparent.webp",
+      "new": "/images/players/dd288b203_player5_transparent.webp",
+      "filename": "dd288b203_player5_transparent.webp",
+      "player": "Bajram Jashanica"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/469db64d5_player_orange_clear_transparent_final.webp",
+      "new": "/images/players/469db64d5_player_orange_clear_transparent_final.we",
+      "filename": "469db64d5_player_orange_clear_transparent_final.we",
+      "player": "Ivica Batarelo"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3c85c5b12_player_orange_transparent.webp",
+      "new": "/images/players/3c85c5b12_player_orange_transparent.webp",
+      "filename": "3c85c5b12_player_orange_transparent.webp",
+      "player": "Gentrit Halili"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2b8ba2e10_artan_iljazi_full.webp",
+      "new": "/images/players/2b8ba2e10_artan_iljazi_full.webp",
+      "filename": "2b8ba2e10_artan_iljazi_full.webp",
+      "player": "Artan Iljazi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/49f849a03_image_18.webp",
+      "new": "/images/players/49f849a03_image_18.webp",
+      "filename": "49f849a03_image_18.webp",
+      "player": "Krenar Dulaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/60fecb664_image_23.webp",
+      "new": "/images/players/60fecb664_image_23.webp",
+      "filename": "60fecb664_image_23.webp",
+      "player": "Xhamail Ibishi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e75aee8de_red_shirt5_300x300.png",
+      "new": "/images/players/e75aee8de_red_shirt5_300x300.png",
+      "filename": "e75aee8de_red_shirt5_300x300.png",
+      "player": "Mevlan Zeka"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b9722ca8d_image_22.webp",
+      "new": "/images/players/b9722ca8d_image_22.webp",
+      "filename": "b9722ca8d_image_22.webp",
+      "player": "Valmir Nafiu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2d4865d4a_xhylani.webp",
+      "new": "/images/players/2d4865d4a_xhylani.webp",
+      "filename": "2d4865d4a_xhylani.webp",
+      "player": "Laurent Xhylani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3edf887a6_donartvitija.webp",
+      "new": "/images/players/3edf887a6_donartvitija.webp",
+      "filename": "3edf887a6_donartvitija.webp",
+      "player": "Donart Vitija"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1402415c6_image_11.webp",
+      "new": "/images/players/1402415c6_image_11.webp",
+      "filename": "1402415c6_image_11.webp",
+      "player": "Besnik Ferati"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/fbbdd3214_transparent_896e80_final2.webp",
+      "new": "/images/players/fbbdd3214_transparent_896e80_final2.webp",
+      "filename": "fbbdd3214_transparent_896e80_final2.webp",
+      "player": "Arber Pira"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/96464aa9f_transparent_final_7a3fd0.webp",
+      "new": "/images/players/96464aa9f_transparent_final_7a3fd0.webp",
+      "filename": "96464aa9f_transparent_final_7a3fd0.webp",
+      "player": "Omer Bajraktari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/aa88c7380_image_7.webp",
+      "new": "/images/players/aa88c7380_image_7.webp",
+      "filename": "aa88c7380_image_7.webp",
+      "player": "Arlind Veliu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/0bf6d0743_royal_blue_jersey_portrait.webp",
+      "new": "/images/players/0bf6d0743_royal_blue_jersey_portrait.webp",
+      "filename": "0bf6d0743_royal_blue_jersey_portrait.webp",
+      "player": "Agon Xhaka"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8ae0afc4b_drenikryeziu.webp",
+      "new": "/images/players/8ae0afc4b_drenikryeziu.webp",
+      "filename": "8ae0afc4b_drenikryeziu.webp",
+      "player": "Dreni Kryeziu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b11bcd2d9_ANDREASSKOV.jpg",
+      "new": "/images/players/b11bcd2d9_ANDREASSKOV.jpg",
+      "filename": "b11bcd2d9_ANDREASSKOV.jpg",
+      "player": "Andreas Skovgaard"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/dd36b83b3_iliravdyli.jpg",
+      "new": "/images/players/dd36b83b3_iliravdyli.jpg",
+      "filename": "dd36b83b3_iliravdyli.jpg",
+      "player": "Ilir Avdyli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b00c477a9_image_16.webp",
+      "new": "/images/players/b00c477a9_image_16.webp",
+      "filename": "b00c477a9_image_16.webp",
+      "player": "Kreshnik Uka"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b3c729a8d_JASHARI.jpg",
+      "new": "/images/players/b3c729a8d_JASHARI.jpg",
+      "filename": "b3c729a8d_JASHARI.jpg",
+      "player": "Igball Jashari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/13e8e8bdd_final_white_transparent_1.webp",
+      "new": "/images/players/13e8e8bdd_final_white_transparent_1.webp",
+      "filename": "13e8e8bdd_final_white_transparent_1.webp",
+      "player": "Genc Hamiti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/57e9fd09f_image_5.webp",
+      "new": "/images/players/57e9fd09f_image_5.webp",
+      "filename": "57e9fd09f_image_5.webp",
+      "player": "Keslin Shani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f2dc2ce63_man_transparent_background.webp",
+      "new": "/images/players/f2dc2ce63_man_transparent_background.webp",
+      "filename": "f2dc2ce63_man_transparent_background.webp",
+      "player": "Granit Jashari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/130ed455e_player4_clear_tiny_web.webp",
+      "new": "/images/players/130ed455e_player4_clear_tiny_web.webp",
+      "filename": "130ed455e_player4_clear_tiny_web.webp",
+      "player": "Kenan Haxhihamza"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5a54f2407_leo.jpg",
+      "new": "/images/players/5a54f2407_leo.jpg",
+      "filename": "5a54f2407_leo.jpg",
+      "player": "Leotrim Kryeziu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/4b94dd2c6_player_clear_transparent.webp",
+      "new": "/images/players/4b94dd2c6_player_clear_transparent.webp",
+      "filename": "4b94dd2c6_player_clear_transparent.webp",
+      "player": "Mario Ilievski"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7747cd3c0_player2_clear_transparent_v2.webp",
+      "new": "/images/players/7747cd3c0_player2_clear_transparent_v2.webp",
+      "filename": "7747cd3c0_player2_clear_transparent_v2.webp",
+      "player": "Rin Ahmeti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/44329883d_player_white_transparent.webp",
+      "new": "/images/players/44329883d_player_white_transparent.webp",
+      "filename": "44329883d_player_white_transparent.webp",
+      "player": "Ardian Muja"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1eab1529a_person_white_transparent_b1e2f6.webp",
+      "new": "/images/players/1eab1529a_person_white_transparent_b1e2f6.webp",
+      "filename": "1eab1529a_person_white_transparent_b1e2f6.webp",
+      "player": "Valmir Veliu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7c0bf604d_person_transparent_new2.webp",
+      "new": "/images/players/7c0bf604d_person_transparent_new2.webp",
+      "filename": "7c0bf604d_person_transparent_new2.webp",
+      "player": "Blend Baftiu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b216137ea_man_clear_transparent1.png",
+      "new": "/images/players/b216137ea_man_clear_transparent1.png",
+      "filename": "b216137ea_man_clear_transparent1.png",
+      "player": "Albin Krasniqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d83b9e1f2_person_transparent_latest.webp",
+      "new": "/images/players/d83b9e1f2_person_transparent_latest.webp",
+      "filename": "d83b9e1f2_person_transparent_latest.webp",
+      "player": "Rigon Llugiqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/07c6d33b2_person_white_shirt_transparent_2.webp",
+      "new": "/images/players/07c6d33b2_person_white_shirt_transparent_2.webp",
+      "filename": "07c6d33b2_person_white_shirt_transparent_2.webp",
+      "player": "Dren Zeqiri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8e1a0ecd9_sc_gjilani_jersey_portrait.webp",
+      "new": "/images/players/8e1a0ecd9_sc_gjilani_jersey_portrait.webp",
+      "filename": "8e1a0ecd9_sc_gjilani_jersey_portrait.webp",
+      "player": "Arjol Bllaca"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/da0422e5c_player12_tiny.webp",
+      "new": "/images/players/da0422e5c_player12_tiny.webp",
+      "filename": "da0422e5c_player12_tiny.webp",
+      "player": "Gjelbrim Taipi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/385514d67_person_transparent_final.webp",
+      "new": "/images/players/385514d67_person_transparent_final.webp",
+      "filename": "385514d67_person_transparent_final.webp",
+      "player": "Ramiz Bytyci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e2dc8771d_person_white_transparent_new.webp",
+      "new": "/images/players/e2dc8771d_person_white_transparent_new.webp",
+      "filename": "e2dc8771d_person_white_transparent_new.webp",
+      "player": "Sylian Mokono"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/6783c2320_person_no_hand_tiny_512.webp",
+      "new": "/images/players/6783c2320_person_no_hand_tiny_512.webp",
+      "filename": "6783c2320_person_no_hand_tiny_512.webp",
+      "player": "Drin Bajraktari"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b3cb2548c_person_white_shirt_transparent.webp",
+      "new": "/images/players/b3cb2548c_person_white_shirt_transparent.webp",
+      "filename": "b3cb2548c_person_white_shirt_transparent.webp",
+      "player": "Djordje Saletic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c2bf7abac_person_transparent_new.webp",
+      "new": "/images/players/c2bf7abac_person_transparent_new.webp",
+      "filename": "c2bf7abac_person_transparent_new.webp",
+      "player": "Philippe Boueye"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/802f2ff15_player_300x300_transparent.png",
+      "new": "/images/players/802f2ff15_player_300x300_transparent.png",
+      "filename": "802f2ff15_player_300x300_transparent.png",
+      "player": "Ardian Limani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/03c5c938a_player_yellow_transparent.webp",
+      "new": "/images/players/03c5c938a_player_yellow_transparent.webp",
+      "filename": "03c5c938a_player_yellow_transparent.webp",
+      "player": "Ardit Nika"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1f0b0fc86_altin_gjokaj_full.webp",
+      "new": "/images/players/1f0b0fc86_altin_gjokaj_full.webp",
+      "filename": "1f0b0fc86_altin_gjokaj_full.webp",
+      "player": "Altin Gjokaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/71fd3efdb_photorealistic_headshot_white_background.webp",
+      "new": "/images/players/69cb0e55d71e514e7fa6f752.png",
+      "filename": "69cb0e55d71e514e7fa6f752.png",
+      "player": "Oltion Bilalli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8f31f194b_player5_green_nologo1.png",
+      "new": "/images/players/8f31f194b_player5_green_nologo1.png",
+      "filename": "8f31f194b_player5_green_nologo1.png",
+      "player": "Albin Prapashtica"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3bb276b05_man_white_headshot.webp",
+      "new": "/images/players/3bb276b05_man_white_headshot.webp",
+      "filename": "3bb276b05_man_white_headshot.webp",
+      "player": "Blerind Morina"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/db1df62ce_man_white_background_studio_portrait.webp",
+      "new": "/images/players/db1df62ce_man_white_background_studio_portrait.web",
+      "filename": "db1df62ce_man_white_background_studio_portrait.web",
+      "player": "Robert Rrahmani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/845cd85a2_young_man_studio_portrait.webp",
+      "new": "/images/players/845cd85a2_young_man_studio_portrait.webp",
+      "filename": "845cd85a2_young_man_studio_portrait.webp",
+      "player": "Ermal Sadiku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bf76cff24_studio_portrait_white_background.webp",
+      "new": "/images/players/bf76cff24_studio_portrait_white_background.webp",
+      "filename": "bf76cff24_studio_portrait_white_background.webp",
+      "player": "Lorik Boshnjaku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2b55da885_red_shirt_300x300.png",
+      "new": "/images/players/2b55da885_red_shirt_300x300.png",
+      "filename": "2b55da885_red_shirt_300x300.png",
+      "player": "Hamdi Namani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/655d68405_smiling_man_cutout.webp",
+      "new": "/images/players/655d68405_smiling_man_cutout.webp",
+      "filename": "655d68405_smiling_man_cutout.webp",
+      "player": "Edison Kqiku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/cca7f05ba_red_shirt4_300x300.png",
+      "new": "/images/players/cca7f05ba_red_shirt4_300x300.png",
+      "filename": "cca7f05ba_red_shirt4_300x300.png",
+      "player": "Yll Ibrahimi "
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f9e80990a_ASTHAQI.jpg",
+      "new": "/images/players/f9e80990a_ASTHAQI.jpg",
+      "filename": "f9e80990a_ASTHAQI.jpg",
+      "player": "Astrit Thaqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1f8bf2d02_red_shirt3_300x300.png",
+      "new": "/images/players/1f8bf2d02_red_shirt3_300x300.png",
+      "filename": "1f8bf2d02_red_shirt3_300x300.png",
+      "player": "Besart Krivanjeva"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a3f0aea31_rrezonmato.jpg",
+      "new": "/images/players/a3f0aea31_rrezonmato.jpg",
+      "filename": "a3f0aea31_rrezonmato.jpg",
+      "player": "Rrezon Matoshi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ba108670c_curly_hair_headshot.webp",
+      "new": "/images/players/ba108670c_curly_hair_headshot.webp",
+      "filename": "ba108670c_curly_hair_headshot.webp",
+      "player": "Dior Gerbovci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/60ee6b950_d7a422_tiny_256.png",
+      "new": "/images/players/60ee6b950_d7a422_tiny_256.png",
+      "filename": "60ee6b950_d7a422_tiny_256.png",
+      "player": "Mergim Cernaverni"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/556e9dae5_welcome_tiny_256.png",
+      "new": "/images/players/556e9dae5_welcome_tiny_256.png",
+      "filename": "556e9dae5_welcome_tiny_256.png",
+      "player": "Fiton Ademi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f59def01b_clear2_tiny_256.png",
+      "new": "/images/players/f59def01b_clear2_tiny_256.png",
+      "filename": "f59def01b_clear2_tiny_256.png",
+      "player": "Elvir Gashijan"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/73532c446_new_tiny_256.png",
+      "new": "/images/players/73532c446_new_tiny_256.png",
+      "filename": "73532c446_new_tiny_256.png",
+      "player": "Benjamin Zyberi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/df7197f99_arianithasani_tiny.png",
+      "new": "/images/players/df7197f99_arianithasani_tiny.png",
+      "filename": "df7197f99_arianithasani_tiny.png",
+      "player": "Arianit Hasani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b7859cac9_player_tiny_256.png",
+      "new": "/images/players/b7859cac9_player_tiny_256.png",
+      "filename": "b7859cac9_player_tiny_256.png",
+      "player": "Arbnor Ramadani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/d4f89ac98_arbnoraliu_transparent.png",
+      "new": "/images/players/d4f89ac98_arbnoraliu_transparent.png",
+      "filename": "d4f89ac98_arbnoraliu_transparent.png",
+      "player": "Arbnor Aliu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/46321ae45_bearded_man_portrait.webp",
+      "new": "/images/players/46321ae45_bearded_man_portrait.webp",
+      "filename": "46321ae45_bearded_man_portrait.webp",
+      "player": "Benjamin Emini"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/8d57620c8_young_man_transparent_portrait.webp",
+      "new": "/images/players/8d57620c8_young_man_transparent_portrait.webp",
+      "filename": "8d57620c8_young_man_transparent_portrait.webp",
+      "player": "Enedin Mulalic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/7705631a9_bytyqi.webp",
+      "new": "/images/players/7705631a9_bytyqi.webp",
+      "filename": "7705631a9_bytyqi.webp",
+      "player": "Arber Bytyci"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a7ec27e06_ILIRBLAKQORI.jpg",
+      "new": "/images/players/a7ec27e06_ILIRBLAKQORI.jpg",
+      "filename": "a7ec27e06_ILIRBLAKQORI.jpg",
+      "player": "Ilir Blakcori"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/ffa8b8876_white_background_portrait.webp",
+      "new": "/images/players/ffa8b8876_white_background_portrait.webp",
+      "filename": "ffa8b8876_white_background_portrait.webp",
+      "player": "Haris Ibrisagic"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/83b2f6c6d_man_royal_blue_jersey.webp",
+      "new": "/images/players/83b2f6c6d_man_royal_blue_jersey.webp",
+      "filename": "83b2f6c6d_man_royal_blue_jersey.webp",
+      "player": "Bujar Idrizi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1516c07f8_young_man_royal_blue_jersey.webp",
+      "new": "/images/players/1516c07f8_young_man_royal_blue_jersey.webp",
+      "filename": "1516c07f8_young_man_royal_blue_jersey.webp",
+      "player": "Fuad Ajvazi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/1923b7136_young_man_white_background_2.webp",
+      "new": "/images/players/1923b7136_young_man_white_background_2.webp",
+      "filename": "1923b7136_young_man_white_background_2.webp",
+      "player": "Gentrit Jaha"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/de85e8e9e_young_man_yellow_jersey_1.webp",
+      "new": "/images/players/de85e8e9e_young_man_yellow_jersey_1.webp",
+      "filename": "de85e8e9e_young_man_yellow_jersey_1.webp",
+      "player": "Leotrim Mucici"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2a3ec485b_yellow_jersey_portrait_cutout.webp",
+      "new": "/images/players/2a3ec485b_yellow_jersey_portrait_cutout.webp",
+      "filename": "2a3ec485b_yellow_jersey_portrait_cutout.webp",
+      "player": "Aridon Bllaca"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/79db72f4a_CORIC.jpg",
+      "new": "/images/players/79db72f4a_CORIC.jpg",
+      "filename": "79db72f4a_CORIC.jpg",
+      "player": "Marijan Coric"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/acea6073e_player7_transparent.webp",
+      "new": "/images/players/acea6073e_player7_transparent.webp",
+      "filename": "acea6073e_player7_transparent.webp",
+      "player": "Redon Syla"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e2a6c93ac_player9_transparent1.webp",
+      "new": "/images/players/e2a6c93ac_player9_transparent1.webp",
+      "filename": "e2a6c93ac_player9_transparent1.webp",
+      "player": "Meris Maliqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/165d11198_player8_white_transparent.webp",
+      "new": "/images/players/165d11198_player8_white_transparent.webp",
+      "filename": "165d11198_player8_white_transparent.webp",
+      "player": "Iljasa Zulfiu"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3241c214f_man_transparent.webp",
+      "new": "/images/players/3241c214f_man_transparent.webp",
+      "filename": "3241c214f_man_transparent.webp",
+      "player": "Granit Elezaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/327d27194_player5_transparent2.webp",
+      "new": "/images/players/327d27194_player5_transparent2.webp",
+      "filename": "327d27194_player5_transparent2.webp",
+      "player": "Altin Merlaku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/067da3e80_player5_transparent1.webp",
+      "new": "/images/players/067da3e80_player5_transparent1.webp",
+      "filename": "067da3e80_player5_transparent1.webp",
+      "player": "Dienit Isufi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/5b35ff8a6_player4_transparent1.webp",
+      "new": "/images/players/5b35ff8a6_player4_transparent1.webp",
+      "filename": "5b35ff8a6_player4_transparent1.webp",
+      "player": "Valentin Hoti"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/dd955dd86_player2_transparent2.webp",
+      "new": "/images/players/dd955dd86_player2_transparent2.webp",
+      "filename": "dd955dd86_player2_transparent2.webp",
+      "player": "Kushtrim Gashi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/71ffb3bf8_man2_transparent.webp",
+      "new": "/images/players/71ffb3bf8_man2_transparent.webp",
+      "filename": "71ffb3bf8_man2_transparent.webp",
+      "player": "Mergim Pefqeli"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/bfec0f222_player_transparent_1506.webp",
+      "new": "/images/players/bfec0f222_player_transparent_1506.webp",
+      "filename": "bfec0f222_player_transparent_1506.webp",
+      "player": "Vitor Hugo"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/a9629ca65_player_transparent_eabc.webp",
+      "new": "/images/players/a9629ca65_player_transparent_eabc.webp",
+      "filename": "a9629ca65_player_transparent_eabc.webp",
+      "player": "Tun Bardhoku"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3bebbc83b_player9_clear_tiny_web.webp",
+      "new": "/images/players/3bebbc83b_player9_clear_tiny_web.webp",
+      "filename": "3bebbc83b_player9_clear_tiny_web.webp",
+      "player": "Elton Basri"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e15e7aa24_player10_white_shirt_tiny.webp",
+      "new": "/images/players/e15e7aa24_player10_white_shirt_tiny.webp",
+      "filename": "e15e7aa24_player10_white_shirt_tiny.webp",
+      "player": "Egzon Sinani"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/24fdd88ef_player5_clear_tiny_web.webp",
+      "new": "/images/players/24fdd88ef_player5_clear_tiny_web.webp",
+      "filename": "24fdd88ef_player5_clear_tiny_web.webp",
+      "player": "Roland Myrtaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/abe6d1817_player3_transparent_tiny_web.webp",
+      "new": "/images/players/abe6d1817_player3_transparent_tiny_web.webp",
+      "filename": "abe6d1817_player3_transparent_tiny_web.webp",
+      "player": "Egzon Lekaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/29a3c94ea_OVOUKA.jpg",
+      "new": "/images/players/29a3c94ea_OVOUKA.jpg",
+      "filename": "29a3c94ea_OVOUKA.jpg",
+      "player": "Raddy Ovouka"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/3555177ef_BALAJ-Copy2.jpg",
+      "new": "/images/players/3555177ef_BALAJ-Copy2.jpg",
+      "filename": "3555177ef_BALAJ-Copy2.jpg",
+      "player": "Liridon Balaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b9fbad519_MANAJ.jpg",
+      "new": "/images/players/b9fbad519_MANAJ.jpg",
+      "filename": "b9fbad519_MANAJ.jpg",
+      "player": "Arb Manaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/b2460e8be_DABIQAJ-Copy2.jpg",
+      "new": "/images/players/b2460e8be_DABIQAJ-Copy2.jpg",
+      "filename": "b2460e8be_DABIQAJ-Copy2.jpg",
+      "player": "Albert Dabiqaj"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/c9054e918_BROJA-Copy2.jpg",
+      "new": "/images/players/c9054e918_BROJA-Copy2.jpg",
+      "filename": "c9054e918_BROJA-Copy2.jpg",
+      "player": "Rron Broja"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/e6a387f43_KRASNIQIBLERIM.jpg",
+      "new": "/images/players/e6a387f43_KRASNIQIBLERIM.jpg",
+      "filename": "e6a387f43_KRASNIQIBLERIM.jpg",
+      "player": "Blerim Krasniqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f742754c1_KRASNIQIBESNIK.jpg",
+      "new": "/images/players/f742754c1_KRASNIQIBESNIK.jpg",
+      "filename": "f742754c1_KRASNIQIBESNIK.jpg",
+      "player": "Besnik Krasniqi"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/f5d2cd780_SHEJI.jpg",
+      "new": "/images/players/f5d2cd780_SHEJI.jpg",
+      "filename": "f5d2cd780_SHEJI.jpg",
+      "player": "Blerton Sheji"
+    },
+    {
+      "old": "https://base44.app/api/apps/69c340685dca7075d7622e15/files/mp/public/69c340685dca7075d7622e15/2c67e9ea8_FatonMaloku_front_transparent.png",
+      "new": "/images/players/2c67e9ea8_FatonMaloku_front_transparent.png",
+      "filename": "2c67e9ea8_FatonMaloku_front_transparent.png",
+      "player": "Faton Maloku"
+    }
+  ]
+}
